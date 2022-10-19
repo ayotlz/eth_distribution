@@ -1,1 +1,1 @@
-# eth_distribution
+### This soft distributes eth from your main account to new just created accounts and returns their private keys
